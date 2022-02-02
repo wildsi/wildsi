@@ -1,0 +1,1 @@
+Scripts for the Sql Loader to import the data into the data warehouse
