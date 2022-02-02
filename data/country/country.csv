@@ -6,7 +6,7 @@ ISOCODE,ISO,ISO3,NAME,CONTINENT,GEONAMEID,STATE_NAME,ISO_STATE,SIMPLIFIED_NAME
 28,AG,ATG,"Antigua and Barbuda",NA,3576396,"Antigua and Barbuda",AG,"Antigua and Barbuda"
 28,AG,ATG,Commonwealth,NA,3576396,"Antigua and Barbuda",AG,"Antigua and Barbuda"
 28,AG,ATG,"Commonwealth of Nations",NA,3576396,"Antigua and Barbuda",AG,"Antigua and Barbuda"
-,,,Borneo,,,,
+,,,Borneo,,,,,
 52,BB,BRB,Barbados,NA,3374084,Barbardos,BB,Barbados
 52,BB,BRB,Barbardos,NA,3374084,Barbardos,BB,Barbados
 84,BZ,BLZ,Belize,NA,3582678,Belize,BZ,Belize
@@ -40,7 +40,7 @@ ISOCODE,ISO,ISO3,NAME,CONTINENT,GEONAMEID,STATE_NAME,ISO_STATE,SIMPLIFIED_NAME
 626,TL,TLS,"Democratic Republic of Timor-Leste",OC,1966436,"Democratic Republic of Timor-Leste",TL,Timor-Leste
 626,TL,TLS,Timor-Leste,OC,1966436,"Democratic Republic of Timor-Leste",TL,Timor-Leste
 180,CD,COD,"Democratic Republic of the Congo",AF,203312,"Democratic Republic of the Congo",CD,"DR Congo"
-,,,"Democratic Republic of the",,,,
+,,,"Democratic Republic of the",,,,,
 180,CD,COD,Congo,AF,203312,"Democratic Republic of the Congo",CD,"DR Congo"
 180,CD,COD,"The DROC",AF,203312,"Democratic Republic of the Congo",CD,"DR Congo"
 180,CD,COD,"DR Congo",AF,203312,"Democratic Republic of the Congo",CD,"DR Congo"
@@ -239,7 +239,7 @@ ISOCODE,ISO,ISO3,NAME,CONTINENT,GEONAMEID,STATE_NAME,ISO_STATE,SIMPLIFIED_NAME
 132,CV,CPV,"Cape Verde",AF,3374766,"Republic of Cabo Verde",CV,"Cape Verde"
 0,XK,XKX,"Republic of Kosovo",EU,831053,"Republic of Kosovo",XK,Kosovo
 0,XK,XKX,Kosovo,EU,831053,"Republic of Kosovo",XK,Kosovo
-,,,"The former Yugoslav Republic of",,,,
+,,,"The former Yugoslav Republic of",,,,,
 807,MK,MKD,"Former Yugoslav Republic of Macedonia",EU,718075,"Republic of North Macedonia",MK,"North Macedonia"
 807,MK,MKD,"North Macedonia",EU,718075,"Republic of North Macedonia",MK,"North Macedonia"
 807,MK,MKD,"The former Yugoslav Republic of Macedonia",EU,718075,"Republic of North Macedonia",MK,"North Macedonia"
@@ -275,7 +275,7 @@ ISOCODE,ISO,ISO3,NAME,CONTINENT,GEONAMEID,STATE_NAME,ISO_STATE,SIMPLIFIED_NAME
 212,DM,DMA,Dominica,NA,3575830,"The Commonwealth of Dominica",DM,Dominica
 44,BS,BHS,Bahamas,NA,3572887,"The Commonwealth of The Bahamas",BS,Bahamas
 44,BS,BHS,"The Commonwealth of The Bahamas",NA,3572887,"The Commonwealth of The Bahamas",BS,Bahamas
-,,,Korea,,,,
+,,,Korea,,,,,
 408,KP,PRK,"The Democratic People's Republic of Korea",AS,1873107,"The Democratic People's Republic of Korea",KP,"North Korea"
 408,KP,PRK,"North Korea",AS,1873107,"The Democratic People's Republic of Korea",KP,"North Korea"
 678,ST,STP,"Sao Tome and Principe",AF,2410758,"The Democratic Republic of Sao Tomé and Príncipe",ST,"São Tomé and Príncipe"
@@ -433,7 +433,7 @@ ISOCODE,ISO,ISO3,NAME,CONTINENT,GEONAMEID,STATE_NAME,ISO_STATE,SIMPLIFIED_NAME
 643,RU,RUS,"The People's Republic of China",EU,2017370,"The People's Republic of China",CN,China
 446,MO,MAC,Macau,AS,1821275,"The People's Republic of China",CN,China
 446,MO,MAC,PRC,AS,1821275,"The People's Republic of China",CN,China
-,,,"Soviet Union",,,,
+,,,"Soviet Union",,,,,
 156,CN,CHN,"The People's Republic of China",AS,1814991,"The People's Republic of China",CN,China
 344,HK,HKG,China,AS,1819730,"The People's Republic of China",CN,China
 68,BO,BOL,Bolivia,SA,3923057,"The Plurinational State of Bolivia",BO,Bolivia
@@ -568,8 +568,8 @@ ISOCODE,ISO,ISO3,NAME,CONTINENT,GEONAMEID,STATE_NAME,ISO_STATE,SIMPLIFIED_NAME
 686,SN,SEN,"The Republic of Senegal",AF,2245662,"The Republic of Senegal",SN,Senegal
 686,SN,SEN,Senegal,AF,2245662,"The Republic of Senegal",SN,Senegal
 891,ME,MNE,Montenegro,EU,8505033,Montenegro,ME,Montenegro
-,,,"Serbia and Montenegro",,,,
-,,,Yugoslavia,,,,
+,,,"Serbia and Montenegro",,,,,
+,,,Yugoslavia,,,,,
 891,RS,SRB,"The Republic of Serbia",EU,8505033,"The Republic of Serbia",RS,Serbia
 688,RS,SRB,Serbia,EU,6290252,"The Republic of Serbia",RS,Serbia
 688,RS,SRB,"The Republic of Serbia",EU,6290252,"The Republic of Serbia",RS,Serbia
@@ -620,8 +620,8 @@ ISOCODE,ISO,ISO3,NAME,CONTINENT,GEONAMEID,STATE_NAME,ISO_STATE,SIMPLIFIED_NAME
 894,ZM,ZMB,Zambia,AF,895949,"The Republic of Zambia",ZM,Zambia
 716,ZW,ZWE,Zimbabwe,AF,878675,"The Republic of Zimbabwe",ZW,Zimbabwe
 716,ZW,ZWE,"The Republic of Zimbabwe",AF,878675,"The Republic of Zimbabwe",ZW,Zimbabwe
-,,,USSR,,,,
-,,,"Union of Soviet Socialist Republics",,,,
+,,,USSR,,,,,
+,,,"Union of Soviet Socialist Republics",,,,,
 643,RU,RUS,"The Russian Federation",EU,2017370,"The Russian Federation",RU,Russia
 643,RU,RUS,Russia,EU,2017370,"The Russian Federation",RU,Russia
 732,EH,ESH,"The Sahrawi Arab Democratic Republic",AF,2461445,"The Sahrawi Arab Democratic Republic",EH,"Western Sahara"
