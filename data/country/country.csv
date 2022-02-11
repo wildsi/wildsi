@@ -237,8 +237,8 @@ ISOCODE,ISO,ISO3,NAME,CONTINENT,GEONAMEID,STATE_NAME,ISO_STATE,SIMPLIFIED_NAME
 132,CV,CPV,"Republic of Cabo Verde",AF,3374766,"Republic of Cabo Verde",CV,"Cape Verde"
 132,CV,CPV,"Cabo Verde",AF,3374766,"Republic of Cabo Verde",CV,"Cape Verde"
 132,CV,CPV,"Cape Verde",AF,3374766,"Republic of Cabo Verde",CV,"Cape Verde"
-0,XK,XKX,"Republic of Kosovo",EU,831053,"Republic of Kosovo",XK,Kosovo
-0,XK,XKX,Kosovo,EU,831053,"Republic of Kosovo",XK,Kosovo
+0,XK,XKX,"Republic of Kosovo",EU,831053,"The Republic of Serbia",RS,"Serbia"
+0,XK,XKX,Kosovo,EU,831053,"The Republic of Serbia",RS,"Serbia"
 ,,,"The former Yugoslav Republic of",,,,,
 807,MK,MKD,"Former Yugoslav Republic of Macedonia",EU,718075,"Republic of North Macedonia",MK,"North Macedonia"
 807,MK,MKD,"North Macedonia",EU,718075,"Republic of North Macedonia",MK,"North Macedonia"
