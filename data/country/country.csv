@@ -41,7 +41,7 @@ ISOCODE,ISO,ISO3,NAME,CONTINENT,GEONAMEID,STATE_NAME,ISO_STATE,SIMPLIFIED_NAME
 626,TL,TLS,Timor-Leste,OC,1966436,"Democratic Republic of Timor-Leste",TL,Timor-Leste
 180,CD,COD,"Democratic Republic of the Congo",AF,203312,"Democratic Republic of the Congo",CD,"DR Congo"
 ,,,"Democratic Republic of the",,,,,
-180,CD,COD,Congo,AF,203312,"Democratic Republic of the Congo",CD,"DR Congo"
+,,,Congo,,,,,
 180,CD,COD,"The DROC",AF,203312,"Democratic Republic of the Congo",CD,"DR Congo"
 180,CD,COD,"DR Congo",AF,203312,"Democratic Republic of the Congo",CD,"DR Congo"
 180,CD,COD,Zaire,AF,203312,"Democratic Republic of the Congo",CD,"DR Congo"
@@ -246,7 +246,6 @@ ISOCODE,ISO,ISO3,NAME,CONTINENT,GEONAMEID,STATE_NAME,ISO_STATE,SIMPLIFIED_NAME
 807,MK,MKD,"Republic of North Macedonia",EU,718075,"Republic of North Macedonia",MK,"North Macedonia"
 807,MK,MKD,Macedonia,EU,718075,"Republic of North Macedonia",MK,"North Macedonia"
 178,CG,COG,"The Congo",AF,2260494,"Republic of the Congo",CG,"Republic of the Congo"
-178,CG,COG,Congo,AF,2260494,"Republic of the Congo",CG,"Republic of the Congo"
 178,CG,COG,"Congo Republic",AF,2260494,"Republic of the Congo",CG,"Republic of the Congo"
 178,CG,COG,Congo-Brazzaville,AF,2260494,"Republic of the Congo",CG,"Republic of the Congo"
 178,CG,COG,"Repubilika ya Kôngo",AF,2260494,"Republic of the Congo",CG,"Republic of the Congo"
@@ -433,7 +432,7 @@ ISOCODE,ISO,ISO3,NAME,CONTINENT,GEONAMEID,STATE_NAME,ISO_STATE,SIMPLIFIED_NAME
 643,RU,RUS,"The People's Republic of China",EU,2017370,"The People's Republic of China",CN,China
 446,MO,MAC,Macau,AS,1821275,"The People's Republic of China",CN,China
 446,MO,MAC,PRC,AS,1821275,"The People's Republic of China",CN,China
-,,,"Soviet Union",,,,,
+,SU,SU,"Soviet Union",,,,,
 156,CN,CHN,"The People's Republic of China",AS,1814991,"The People's Republic of China",CN,China
 344,HK,HKG,China,AS,1819730,"The People's Republic of China",CN,China
 68,BO,BOL,Bolivia,SA,3923057,"The Plurinational State of Bolivia",BO,Bolivia
@@ -620,8 +619,8 @@ ISOCODE,ISO,ISO3,NAME,CONTINENT,GEONAMEID,STATE_NAME,ISO_STATE,SIMPLIFIED_NAME
 894,ZM,ZMB,Zambia,AF,895949,"The Republic of Zambia",ZM,Zambia
 716,ZW,ZWE,Zimbabwe,AF,878675,"The Republic of Zimbabwe",ZW,Zimbabwe
 716,ZW,ZWE,"The Republic of Zimbabwe",AF,878675,"The Republic of Zimbabwe",ZW,Zimbabwe
-,,,USSR,,,,,
-,,,"Union of Soviet Socialist Republics",,,,,
+,SU,SU,USSR,,,,,
+,SU,SU,"Union of Soviet Socialist Republics",,,,,
 643,RU,RUS,"The Russian Federation",EU,2017370,"The Russian Federation",RU,Russia
 643,RU,RUS,Russia,EU,2017370,"The Russian Federation",RU,Russia
 732,EH,ESH,"The Sahrawi Arab Democratic Republic",AF,2461445,"The Sahrawi Arab Democratic Republic",EH,"Western Sahara"
