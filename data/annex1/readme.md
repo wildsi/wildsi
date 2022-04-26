@@ -5,4 +5,4 @@ This folder contains two files:
 
 ## Important to note:
 
-* This files are created by mapping Treaty Annex 1 plants by Genus name to related node in [NCBI taxonomy database](https://www.ncbi.nlm.nih.gov/Taxonomy/)
+* This files are created by manual, expert supervised mapping Treaty Annex 1 plants by Genus name to related node in [NCBI taxonomy database](https://www.ncbi.nlm.nih.gov/Taxonomy/)
