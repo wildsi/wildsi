@@ -14,7 +14,8 @@ A spreadsheet describing our mapping is available as "annex1_exclude_or_include.
 Conflicts and ambiguities were resolved as follows. If a species mentioned in Annex I was included in a different genus in the NCBI Taxonomy, this genus was added to the table. If these differences left a genus in Annex I with no relevant species, the genus name was retained in the table, but “NA” was listed as the genus TxID. When additional genera were mentioned in the “Observations”, these were added as separate rows, and the whole genus was presumed to be included unless otherwise stated. Genera that are mentioned more than once were merged into a single row. Within Solanum, prior publications were used to determine which species fall under Tuberosa and Melongena (3,4). Additional information on these taxonomic groups are provided in separate worksheets.
 
 In order to be able to assign DSI records from databases, which are assigned to species via the NCBI taxonmy ID, to ANNEX1 plants, all subspecies were listed as a flat table in File Y, taking into account the inclusion and exclusion rules mentioned above. For this purpose, the tree structure was traversed from the genus node, expanded, the exclusion list excluded and the inclusion list added. For this purpose, the NCBI Taxonomy was used as a database dump (5) as of December 2021.
-References
+
+## References
 
 1. Annex I: List of crops covered under the Multilateral System | International Treaty on Plant Genetic Resources for Food and Agriculture | Food and Agriculture Organization of the United Nations. https://www.fao.org/plant-treaty/areas-of-work/the-multilateral-system/annex1/en/.
 2. Schoch, C. L. et al. NCBI Taxonomy: a comprehensive update on curation, resources and tools. Database 2020, baaa062 (2020).
