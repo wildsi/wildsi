@@ -594,8 +594,11 @@ ISOCODE,ISO,ISO3,NAME,CONTINENT,GEONAMEID,STATE_NAME,ISO_STATE,SIMPLIFIED_NAME
 780,TT,TTO,"Trinidad and Tobago",NA,3573591,"The Republic of Trinidad and Tobago",TT,"Trinidad and Tobago"
 788,TN,TUN,"The Republic of Tunisia",AF,2464461,"The Republic of Tunisia",TN,Tunisia
 788,TN,TUN,Tunisia,AF,2464461,"The Republic of Tunisia",TN,Tunisia
-792,TR,TUR,"The Republic of Turkey",AS,298795,"The Republic of Turkey",TR,Turkey
-792,TR,TUR,Turkey,AS,298795,"The Republic of Turkey",TR,Turkey
+792,TR,TUR,The Republic of Türkey,AS,298795,Republic of Türkiye,Türkiye,TR
+792,TR,TUR,Türkiye,AS,298795,Republic of Türkiye,Türkiye,TR
+792,TR,TUR,Turkey,AS,298795,Republic of Türkiye,Türkiye,TR
+792,TR,TUR,The Republic of Turkey,AS,298795,Republic of Türkiye,Türkiye,TR
+792,TR,TUR,Republic of Türkiye,AS,298795,Republic of Türkiye,Türkiye,TR
 584,MH,MHL,"The Republic of the Marshall Islands",OC,2080185,"The Republic of the Marshall Islands",MH,"Marshall Islands"
 584,MH,MHL,"Marshall Islands",OC,2080185,"The Republic of the Marshall Islands",MH,"Marshall Islands"
 562,NE,NER,"The Republic of the Niger",AF,2440476,"The Republic of the Niger",NE,Niger
