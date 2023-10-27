@@ -521,6 +521,8 @@ ISOCODE,ISO,ISO3,NAME,CONTINENT,GEONAMEID,STATE_NAME,ISO_STATE,SIMPLIFIED_NAME
 296,KI,KIR,Kiribati,OC,4030945,"The Republic of Kiribati",KI,Kiribati
 410,KR,KOR,"South Korea",AS,1835841,"The Republic of Korea",KR,"South Korea"
 410,KR,KOR,"The Republic of Korea",AS,1835841,"The Republic of Korea",KR,"South Korea"
+410,KR,KOR,"Republic of Korea",AS,1835841,"The Republic of Korea",KR,"South Korea"
+410,KR,KOR,"Korea, Republic of",AS,1835841,"The Republic of Korea",KR,"South Korea"
 428,LV,LVA,"The Republic of Latvia",EU,458258,"The Republic of Latvia",LV,Latvia
 428,LV,LVA,Latvia,EU,458258,"The Republic of Latvia",LV,Latvia
 430,LR,LBR,"The Republic of Liberia",AF,2275384,"The Republic of Liberia",LR,Liberia
